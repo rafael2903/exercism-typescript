@@ -1,3 +1,3 @@
-# TypeScript exercises solutions
+# Exercism TypeScript Solutions
 
-My solutions for the exercises of TypeScript track of [exercism.org](https://exercism.org/dashboard)
+This repository contains my solutions for the TypeScript track on [exercism.org](https://exercism.org/dashboard). 
